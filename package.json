@@ -6,6 +6,10 @@
   "author": "Jesse Kuntz",
   "publisher": "Sharktopus",
   "icon": "icon.jpeg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JesseKuntz/ocean-code"
+  },
   "engines": {
     "vscode": "^1.48.0"
   },

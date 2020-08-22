@@ -1,7 +1,7 @@
 # 🌊 Ocean Code - VS Code Theme 🌊
 
 ## Installation
-You can install this theme from the [VS Marketplace](https://marketplace.visualstudio.com/).
+You can install this theme from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Sharktopus.ocean-code).
 
 ## Preview
 ![](https://i.ibb.co/kyYHdMD/example.png)
