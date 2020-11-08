@@ -39,7 +39,14 @@ Then you'll be prompted to restart VS Code, and the background should appear. If
 
 **Enjoy!** 🦀
 
-## Bonus
-If you want to "complete the look" you can use the [UnderTheSea](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/UnderTheSea.itermcolors) iTerm2 color scheme. I made two changes:
+## Bonus Themes
+
+### iTerm2
+
+I use the [UnderTheSea](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/UnderTheSea.itermcolors) iTerm2 color scheme with minor modifications. I made two changes:
 * Background color to `#1d262f`
 * Background image to these [anemones](https://images.unsplash.com/photo-1516562313534-8f1d36ddd981?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=100)
+
+### Slack
+
+Paste the following in the custom theme field: `#1D262F,#350d36,#3F535C,#F9E0A7,#3F535C,#F9E0A7,#EF776F,#FF5370,#171E27,#F9E0A7`
