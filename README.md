@@ -15,7 +15,7 @@ The water background isn't part of the theme that you can get on the marketplace
     "background.enabled": true,
     "background.useDefault": false,
     "background.customImages": [
-      "https://images.unsplash.com/photo-1550940934-bc02c7c59618?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&h=2100&q=100"
+      "https://images.unsplash.com/photo-1550940934-bc02c7c59618?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=100"
     ],
     "background.style": {
       "content": "''",
@@ -27,7 +27,7 @@ The water background isn't part of the theme that you can get on the marketplace
       "background-position": "center",
       "background-repeat": "no-repeat",
       "background-size": "100%,100%",
-      "opacity": 0.10
+      "opacity": 0.06
     },
   ```
 
