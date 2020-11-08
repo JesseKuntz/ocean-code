@@ -38,3 +38,8 @@ Then you'll be prompted to restart VS Code, and the background should appear. If
 * For a long time, I used the [Dark Sea](https://marketplace.visualstudio.com/items?itemName=MoOx.dark-sea) theme, but decided that I wanted a little more color - so I made this!
 
 **Enjoy!** 🦀
+
+## Bonus
+If you want to "complete the look" you can use the [UnderTheSea](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/UnderTheSea.itermcolors) iTerm2 color scheme. I made two changes:
+* Background color to `#1d262f`
+* Background image to these [anemones](https://images.unsplash.com/photo-1516562313534-8f1d36ddd981?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=100)
