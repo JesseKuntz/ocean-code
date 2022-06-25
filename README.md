@@ -6,6 +6,9 @@ You can install this theme from the [VS Marketplace](https://marketplace.visuals
 ## Preview 🐳
 ![](preview.png)
 
+## Troubleshooting 🏝
+If your bracket colors don't look the same as the preview, it's likely that you have bracket pair colorization enabled (a previous VS Code update enabled this by default). You can turn it off by going to `Settings › Editor › Bracket Pair Colorization` and unchecking the box.
+
 ## Background 🐡
 The water background isn't part of the theme that you can get on the marketplace - but if you want it, follow these steps:
 * Install the [`background`](https://marketplace.visualstudio.com/items?itemName=shalldie.background) extension.
